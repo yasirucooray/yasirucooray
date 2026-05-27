@@ -49,31 +49,25 @@ Whether I am modeling secure, multi-tenant databases, orchestrating automated sc
 
 ### 💻 Backend & System Architecture
 <p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/actvcty/laravel-animated.svg" width="50" height="50" alt="Laravel" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/actvcty/php-animated.svg" width="50" height="50" alt="PHP" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/actvcty/python-animated.svg" width="50" height="50" alt="Python" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/actvcty/mysql-animated.svg" width="50" height="50" alt="MySQL" />
-  </a>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### 🎨 Frontend, Styling & Tools
+### 🎨 Frontend, Styling & Design
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/actvcty/javascript-animated.svg" width="50" height="50" alt="JavaScript" />
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/actvcty/css3-animated.svg" width="50" height="50" alt="CSS3" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/actvcty/figma-animated.svg" width="50" height="50" alt="Figma" />
-  </a>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+### ⚙️ Services & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SEO-Optimization-orange?style=for-the-badge&logo=google-search-console&logoColor=white" alt="SEO" />
 </p>
 
 ---
@@ -104,10 +98,6 @@ Whether I am modeling secure, multi-tenant databases, orchestrating automated sc
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yasirucooray/count.svg" alt="Profile Views Counter" />
 </p>
 
 <p align="center">
