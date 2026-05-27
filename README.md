@@ -1,13 +1,8 @@
 # Hi there, I'm Yasiru Cooray 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=11,15,22,25&height=200&section=header&text=Yasiru%20Cooray&fontSize=45&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
-</p>
-
-<!-- Animated Typing Terminal Effect -->
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5722&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Full-Stack+Software+Engineer;%F0%9F%9A%80+Laravel+%26+PHP+Architect;%F0%9F%92%B3+FinTech+%26+Stripe+Integrator;%F0%9F%8E%A8+UI%2FUX+%26+Mobile+Layout+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF5722&center=true&vCenter=true&width=600&height=100&lines=Yasiru+Cooray;Full-Stack+Software+Engineer;Laravel+%26+PHP+Architect;FinTech+%26+Stripe+Integrator" alt="Typing SVG" />
   </a>
 </p>
 
